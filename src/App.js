@@ -4,7 +4,7 @@ import Erza from './Erza';
 import Mira from './Mira';
 import Home from './Home';
 import Minerva from './Minerva';
-import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
+import {HashRouter as Router, Switch, Route} from 'react-router-dom';
 
 function App() {
   return (
