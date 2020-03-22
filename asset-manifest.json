@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/deploy-react-one/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/deploy-react-one/static/js/main.92a50fad.chunk.js",
-    "main.js.map": "/deploy-react-one/static/js/main.92a50fad.chunk.js.map",
+    "main.css": "/deploy-react-one/static/css/main.69eda509.chunk.css",
+    "main.js": "/deploy-react-one/static/js/main.bc34b248.chunk.js",
+    "main.js.map": "/deploy-react-one/static/js/main.bc34b248.chunk.js.map",
     "runtime-main.js": "/deploy-react-one/static/js/runtime-main.e7d8379e.js",
     "runtime-main.js.map": "/deploy-react-one/static/js/runtime-main.e7d8379e.js.map",
-    "static/js/2.eda4b546.chunk.js": "/deploy-react-one/static/js/2.eda4b546.chunk.js",
-    "static/js/2.eda4b546.chunk.js.map": "/deploy-react-one/static/js/2.eda4b546.chunk.js.map",
+    "static/js/2.1fb59dbd.chunk.js": "/deploy-react-one/static/js/2.1fb59dbd.chunk.js",
+    "static/js/2.1fb59dbd.chunk.js.map": "/deploy-react-one/static/js/2.1fb59dbd.chunk.js.map",
     "index.html": "/deploy-react-one/index.html",
-    "precache-manifest.8eeb92319691232c237c5415ba1c691d.js": "/deploy-react-one/precache-manifest.8eeb92319691232c237c5415ba1c691d.js",
+    "precache-manifest.8b8e80e37be8610c258ee58cfe4d3ebe.js": "/deploy-react-one/precache-manifest.8b8e80e37be8610c258ee58cfe4d3ebe.js",
     "service-worker.js": "/deploy-react-one/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/deploy-react-one/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.eda4b546.chunk.js.LICENSE.txt": "/deploy-react-one/static/js/2.eda4b546.chunk.js.LICENSE.txt",
+    "static/css/main.69eda509.chunk.css.map": "/deploy-react-one/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.1fb59dbd.chunk.js.LICENSE.txt": "/deploy-react-one/static/js/2.1fb59dbd.chunk.js.LICENSE.txt",
     "static/media/erza.jpg": "/deploy-react-one/static/media/erza.4bd962f5.jpg",
     "static/media/minerva.jpg": "/deploy-react-one/static/media/minerva.e1f1549a.jpg",
     "static/media/mira.jpg": "/deploy-react-one/static/media/mira.580eb655.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.e7d8379e.js",
-    "static/js/2.eda4b546.chunk.js",
-    "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.92a50fad.chunk.js"
+    "static/js/2.1fb59dbd.chunk.js",
+    "static/css/main.69eda509.chunk.css",
+    "static/js/main.bc34b248.chunk.js"
   ]
 }
